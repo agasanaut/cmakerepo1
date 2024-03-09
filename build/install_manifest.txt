@@ -1,0 +1,3 @@
+/home/tejnxt/github/cmakerepo1/lib/libAdditionLibrary.so.1.0
+/home/tejnxt/github/cmakerepo1/lib/libAdditionLibrary.so.1
+/home/tejnxt/github/cmakerepo1/lib/libAdditionLibrary.so
